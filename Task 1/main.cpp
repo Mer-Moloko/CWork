@@ -4,5 +4,5 @@
 int main()
 {
     std::cout << "Hello, muzsbek!" << std::endl;
-    return 1;
+    return 0;
 }
