@@ -1,10 +1,8 @@
 #include <iostream>
 #include <sstream>
-#include <vector>
 //
 // Created by DeLife on 19.11.2026.
 //
-
 std::string line;
 int num;
 int sum;
